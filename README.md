@@ -8,4 +8,5 @@ This allows us to produce accurate parsing and translation of words without hall
 Some external files that are accessed via tools by the model. 
 If you are running in Google Colab, you will have to upload the entire "resources" folder to the colab session in order for it to work
 
-- Liddel and Scott's Greek-English Lexicon (source: [Perseids Project/lsj-js](https://github.com/perseids-project/lsj-js.git))
+- Liddel and Scott's *Greek-English Lexicon* (source: [Perseids Project/lsj-js](https://github.com/perseids-project/lsj-js.git))
+- Herbert Weir Smyth's *A Greek Grammar for Colleges* (source: [Alpheios Project/grammar-smyth](https://github.com/alpheios-project/grammar-smyth.git))
