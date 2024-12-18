@@ -31,5 +31,7 @@ An additional point is lost if the formatting is not right, such as forgetting t
         - **Form**: Demonstrative pronoun, feminine singular nominative
         - **Meaning**: "this" (feminine)
     - Score 5/5
+ 
+
 | **Word** | **Response** | **Score** |
 | -------- | ------------ | --------- |
