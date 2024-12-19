@@ -1,6 +1,6 @@
 # Greek-Parser
 Agentic AI Greek Parser
-![Project Poster](poster.pdf "poster")
+![Project Poster](poster.png "poster")
 This agentic system uses LangGraph to connect a chatGPT model to a set of tools that give it precise knowledge about Ancient Greek syntax and forms. 
 This allows us to produce accurate parsing and translation of words without hallucination. 
 
