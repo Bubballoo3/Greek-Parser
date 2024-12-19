@@ -14,7 +14,7 @@ If you are running in Google Colab, you will have to upload the entire "resource
 ##  Testing
 
 - The testing consists of three levels of words. 
-- At each level, we give 12 words of varying parts of speech.
+- At each level, we give words of varying parts of speech.
 - At the easy and medium level, examples are drawn from Aelian's *Epistulae Rusticae*. Hard examples are drawn from multiple sources to test Attic, Homeric, and Ionian dialects.
 - The model is scored on each word out of 5, losing points for each part of the parsing they get wrong.
 An additional point is lost if the formatting is not right, such as forgetting to include a dictionary entry (if they know there is one). 
