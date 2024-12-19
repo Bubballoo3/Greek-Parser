@@ -40,7 +40,7 @@ Easy words consist of common nouns and present tense verbs, differing at most tw
 
 
 
-### Medium Words
+### Medium Words - 89% accurate (40/45 points)
 Medium words are less frequent (> 2000 rank), expand to all tenses and moods, and generally require more logical steps to decipher.
 
 | **Word** | **Frequency** | **Response** | **Score** | **Explanation**|
@@ -49,10 +49,21 @@ Medium words are less frequent (> 2000 rank), expand to all tenses and moods, an
 | διακωλυσας |2690th|  **Word**: διακωλυσας <br> **Root**: διακωλύω<br> **Form**: Aorist active indicative, second person singular <br> **Meaning**: "you hindered" or "you prevented" | 5/5 | | 
 | συμπεπλεγμενος | 2138th | **Word**: συμπεπλεγμενον <br> **Root**: συμπλέκω <br> **Form**: Perfect passive participle, neuter singular nominative <br> **Meaning**: "having been interwoven" or "having been twined together" | 5/5 | Missed other possible parsings (neuter accusative and vocative, nominative accusative) but still correct | 
 | επιλειψας |2569th| **Word**: επιλειψας <br> **Root**: ἐπιλείπω <br> **Form**: Aorist active participle, masculine singular nominative <br> **Meaning**: "having left behind" or "having fallen short" | 5/5|
+| συναντωντας |4502nd| **Identify the root**: The root is "συναντάω," which is a verb. <br> **Determine the form**: The suffix "ντας" suggests that this word is a participle form of the verb. <br> **Check for definitions**: After checking "συναντάω" and related forms, I confirmed that it means "to meet" or "to encounter," but I couldn't find an exact match for "συναντωντας." <br> **Conclusions** Given the structure of "συναντωντας," it is likely a masculine accusative plural form of the participle, meaning "those who are meeting" or "the ones who meet." However, without a direct LSJ entry, I cannot provide a full definition. | 4/5 | Found the root word, but did not cite the definition. Generated correct parse and definition. |
+| ζηλουμεν |2002nd| **Word**: ζηλούμεν <br> **Root**: ζηλόω <br> **Form**: 1st person plural present indicative active <br> **Meaning**: "we are zealous" or "we envy" | 5/5 | Did put the wrong accent on the word as it recited it, but rest of response is good. |
+| επιψηφισαιμι |4793rd| **Word**: επιψηφισαιμι <br> **Root**: ψηφίζω <br> **Form**: First person singular subjunctive/potential indicative <br> **Meaning**: "I may vote upon" or "I may cast a vote regarding."| 4/5 | Did not mention tense in parsing. Should have recognized aorist|
+| λωιοτερα |3459th| - **Word**: λωιτερα <br> **Root**: λωΐτερος <br> **Form**: Feminine nominative singular of the comparative adjective <br> **Meaning**: "more desirable" or "better" | 5/5| 
+| αρπασθεισεων |1126th| **Root Word**: The word is derived from "ἁρπάζω." <br> **Form**: The ending "-θεισεων" suggests a genitive plural form that might relate to an abstract noun indicating actions or states of seizing, possibly referring to the results or consequences of such actions. <br> **Part of Speech**: It is likely a noun, specifically in the genitive plural form. | 3/5 | Did not parse the aorist passive participle correctly, but did identify dictonary form and gave a good approximation of the definition |
 
 
 
-### Hard Words
+
+
+
+
+
+
+### Hard Words - 63% accurate (19/30 points)
 Hard words involve non-attic dialects, rare words, and contracted forms
 | **Word** | **Frequency** | **Response** | **Score** | **Explanation**|
 | -------- | -------------|------------ | --------- | ---------------|
@@ -60,5 +71,7 @@ Hard words involve non-attic dialects, rare words, and contracted forms
 | σμηνη |unranked <nobr>(<50 times)| **Word**: σμηνη <br> **Root**: σμήν <br> **Form**: Nominative singular feminine <br> **Meaning**: "hive" or "swarm" | 2/5| This form is the irregular plural of the neuter σμῆνος. The model was unable to arrive at this root form, and introduced σμήν, an unrelated word, without looking up the definition. 
 | σμικροτητα|unranked <nobr>(<50 times)| **Word**: σμικρότητα <br> **Root**: σμικρός <br> **Form**: Abstract noun <br> **Meaning**: "smallness" or "petty quality" | 3/5 | It found the correct root but did not parse the form.
 |γειτονημα |unranked <nobr>(<50 times)| **Word**: γειτονηματι <br> **Root**: γειτόνημα <br> **Form**: Likely a dative or locative case (based on the ending). <br> **Meaning**: "in the neighbourhood" or "to the neighbourhood." | 4/5 | Parse and definition are good except missing singular/plural. |
+| αποφραδων |unranked <nobr>(<50 times)| **Root**: ἀποφράς <br> **Form**: Likely a genitive plural or related form of an adjective <br> **Meaning**: "of the unlucky ones" or "of those who are blocked" | 5/5 | Small formatting mistake of not citing the input word, but overall good|
+| αθανατιζοντες |unranked <nobr>(<50 times)|  **Word**: αθανατιζοντες <br> **Root**: ἀθανατίζω <br> **Form**: Aorist active participle, masculine plural nominative <br> **Meaning**: "those who make (something) immortal" or "those who regard (something) as immortal" | 4/5 | Mistakenly parsed as aorist, when it is a present participle |
 
 
