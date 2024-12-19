@@ -9,7 +9,6 @@ This allows us to produce accurate parsing and translation of words without hall
 
 ## Resources
 Some external files that are accessed via tools by the model. 
-If you are running in Google Colab, you will have to upload the entire "resources" folder to the colab session in order for it to work
 
 - Liddel and Scott's *Greek-English Lexicon* (source: [Perseids Project/lsj-js](https://github.com/perseids-project/lsj-js.git))
 - A verb contraction sheet from Prof. Helma Dik of the University of Chicago (Source: [Nifty Greek Handouts](https://classics.uchicago.edu/people/helma-dik/nifty-greek-handouts)), converted into a string by ChatGPT. 
