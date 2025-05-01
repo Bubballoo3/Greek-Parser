@@ -14,7 +14,7 @@ Its performance is highly dependent on the frequency of a word, so it works best
 
 #Load auxillary files from github and change directories
 
-!git clone https://github.com/Bubballoo3/Greek-Parser.git
+#!git clone https://github.com/Bubballoo3/Greek-Parser.git
 import os
 os.chdir("Greek-Parser")
 
